@@ -12,7 +12,7 @@
 - StatusPicker
 
 ## Install:
-- Grab the [Air-for-Discord.theme.css](https://github.com/MadameSolette/BetterDiscord/blob/master/Themes/Air-for-Discord/Dark/Air-for-Discord.theme.css) and put it in your theme folder.
+- Grab the [Air-for-Discord.theme.css](https://github.com/MadameSolette/BetterDiscord/blob/master/Themes/Air-for-Discord/Dark/Air-for-Discord.theme.css) file and put it in your theme folder.
 
 ## Compatible with:
 - [zHorizontalServerlist](https://github.com/Gibbu/BetterDiscord-Themes/tree/master/HorizontalServerlist) by Gibbu
