@@ -1,0 +1,54 @@
+.popout-3sVMXz, .menu-Sp6bN1.alt-3btY0e {
+    background-color: var(--bg-color);
+    border-radius: var(--br);
+}
+.popouts-3dRSmE .menu-Sp6bN1.alt-3btY0e .item-1GzJrl:hover {
+    background-color: transparent;
+}
+.alt-3btY0e .item-1GzJrl .statusIconText-3b4TkH > div {
+    left: 188px;
+    transition: all 250ms ease;
+}
+.alt-3btY0e .item-1GzJrl .statusIconText-3b4TkH:hover > div {
+    left: 176px;
+}
+.popouts-3dRSmE .menu-Sp6bN1.alt-3btY0e .status-oxiHuE.large-3ChYtB.status-3fQvEa {
+    border-radius: 0px;
+    width: 188px;
+    height: 32px;
+    margin-left:-188px;
+}
+.popouts-3dRSmE .menu-Sp6bN1.alt-3btY0e .status-oxiHuE.large-3ChYtB.status-3fQvEa:hover {
+    border-radius: 0px;
+    width: 188px;
+    height: 32px;
+    margin-left: -176px;
+}
+.popouts-3dRSmE .menu-Sp6bN1.alt-3btY0e .online-2S838R {
+    background-color: transparent;
+    background-image: linear-gradient(90deg,transparent,rgba(67, 181, 129, 0.3));
+}
+.popouts-3dRSmE .menu-Sp6bN1.alt-3btY0e .online-2S838R:hover {
+    background-image: linear-gradient(90deg,transparent,rgba(67, 181, 129, 0.85));
+}
+.popouts-3dRSmE .menu-Sp6bN1.alt-3btY0e .idle-3DEnRT {
+    background-color: transparent;
+    background-image: linear-gradient(90deg,transparent,rgba(250, 166, 26, 0.3));
+}
+.popouts-3dRSmE .menu-Sp6bN1.alt-3btY0e .idle-3DEnRT:hover {
+    background-image: linear-gradient(90deg,transparent,rgba(250, 166, 26, 0.85));
+}
+.popouts-3dRSmE .menu-Sp6bN1.alt-3btY0e .dnd-1_xrcq {
+    background-color: transparent;
+    background-image: linear-gradient(90deg,transparent,rgba(240, 71, 71, 0.3));
+}
+.popouts-3dRSmE .menu-Sp6bN1.alt-3btY0e .dnd-1_xrcq:hover {
+    background-image: linear-gradient(90deg,transparent,rgba(240, 71, 71, 0.85));
+}
+.popouts-3dRSmE .menu-Sp6bN1.alt-3btY0e .invisible-1kp8Z0 {
+    background-color: transparent;
+    background-image: linear-gradient(90deg,transparent,rgba(116, 127, 141, 0.3));
+}
+.popouts-3dRSmE .menu-Sp6bN1.alt-3btY0e .invisible-1kp8Z0:hover {
+    background-image: linear-gradient(90deg,transparent,rgba(116, 127, 141, 0.85));
+}
