@@ -1,0 +1,10 @@
+//META{"name":"SlitusPicker","version":"1.0","author":"Madame Solette","website":"https://github.com/MadameSolette/SlitusPicker","description":"Slide your status 😉"}*//{}
+
+@import url(https://madamesolette.github.io/SlitusPicker/source/slituspicker.css);
+
+:root {
+
+    /* StatusPicker Popup Menu */
+    --bg-color: #282B30;                 /* Replace the standard Discord StatusPicker popup background color #282B30 for your personal color */
+    --br: 0px;                           /* Change the value for the Border Radius */
+}
