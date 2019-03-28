@@ -1,10 +1,10 @@
-//META{"name":"Air-for-Discord","version":"1.0 || Dark || ","author":"Madame Solette - Many thanks to Peter & Sir Pod-Ex for being available to test some stuff !","website":"https://github.com/MadameSolette/BetterDiscord/tree/master/Themes/Air-for-Discord/Dark","description":""}*//{}
-
-@import url(https://madamesolette.github.io/BetterDiscord/Themes/Air-for-Discord/Dark/source/airfordiscord.css);
-
 :root {
 
-/* Top Bar */
+    /* Top Bar */
     --bg-color: #00BCD4;
-    --border-color: #00ACC1;
+
+    /* Radial_Status v2.0.0 by Zerebos FIX */
+    /* https://github.com/rauenzi/BetterDiscordAddons/tree/master/Themes/RadialStatus */
+    --rs-width: 0px !important;
+    --rs-spacing: 3px;
 }
