@@ -1,3 +1,14 @@
+/* Other Better Discord Stuff */
+/* Better Formatting Redux */
+/* https://github.com/rauenzi/BetterDiscordAddons/tree/master/Plugins/BetterFormattingRedux */
+.bf-toolbar {
+    margin: 2px 12px 0 0 !important;
+}
+.bf-toolbar:before {
+    background: rgba(26, 26, 26,.7) !important;
+}
+/* END Other Better Discord Stuff */
+
 .appMount-3lHmkl {
     background-color: #1a1a1a;
 }
@@ -443,6 +454,8 @@ svg.homeIcon-tEMBK1 {
 .popouts-3dRSmE .menu-Sp6bN1.alt-3btY0e .online-2S838R {
     background-color: transparent;
     background-image: linear-gradient(90deg,transparent,rgba(67, 181, 129, 0.15));
+    box-shadow: 0 0 0 0 #43B581 !important;
+    border: 0px solid transparent !important;
 }
 .popouts-3dRSmE .menu-Sp6bN1.alt-3btY0e .online-2S838R:hover {
     background-image: linear-gradient(90deg,transparent,rgba(67, 181, 129, 0.85));
@@ -450,6 +463,8 @@ svg.homeIcon-tEMBK1 {
 .popouts-3dRSmE .menu-Sp6bN1.alt-3btY0e .idle-3DEnRT {
     background-color: transparent;
     background-image: linear-gradient(90deg,transparent,rgba(250, 166, 26, 0.15));
+    box-shadow: 0 0 0 0 #FAA61A !important;
+    border: 0px solid transparent !important;
 }
 .popouts-3dRSmE .menu-Sp6bN1.alt-3btY0e .idle-3DEnRT:hover {
     background-image: linear-gradient(90deg,transparent,rgba(250, 166, 26, 0.85));
@@ -457,6 +472,8 @@ svg.homeIcon-tEMBK1 {
 .popouts-3dRSmE .menu-Sp6bN1.alt-3btY0e .dnd-1_xrcq {
     background-color: transparent;
     background-image: linear-gradient(90deg,transparent,rgba(240, 71, 71, 0.15));
+    box-shadow: 0 0 0 0 #F04747 !important;
+    border: 0px solid transparent !important;
 }
 .popouts-3dRSmE .menu-Sp6bN1.alt-3btY0e .dnd-1_xrcq:hover {
     background-image: linear-gradient(90deg,transparent,rgba(240, 71, 71, 0.85));
@@ -464,6 +481,8 @@ svg.homeIcon-tEMBK1 {
 .popouts-3dRSmE .menu-Sp6bN1.alt-3btY0e .invisible-1kp8Z0 {
     background-color: transparent;
     background-image: linear-gradient(90deg,transparent,rgba(116, 127, 141, 0.15));
+    box-shadow: 0 0 0 0 #747F8D !important;
+    border: 0px solid transparent !important;
 }
 .popouts-3dRSmE .menu-Sp6bN1.alt-3btY0e .invisible-1kp8Z0:hover {
     background-image: linear-gradient(90deg,transparent,rgba(116, 127, 141, 0.85));
@@ -472,7 +491,8 @@ svg.homeIcon-tEMBK1 {
 /* Status */
 .online-2S838R {
     background-color: transparent;
-    box-shadow: 0 0 1px 3px #43B581;
+    box-shadow: 0 0 2px 2px #43B581;
+    border: 1px solid #43B581 !important;
     height: 8px;
     width: 8px;
     margin-right: 4px;
@@ -480,7 +500,8 @@ svg.homeIcon-tEMBK1 {
 }
 .idle-3DEnRT {
     background-color: transparent;
-    box-shadow: 0 0 1px 3px #FAA61A;
+    box-shadow: 0 0 2px 2px #FAA61A;
+    border: 1px solid #FAA61A !important;
     height: 8px;
     width: 8px;
     margin-right: 4px;
@@ -488,7 +509,8 @@ svg.homeIcon-tEMBK1 {
 }
 .dnd-1_xrcq {
     background-color: transparent;
-    box-shadow: 0 0 1px 3px #F04747;
+    box-shadow: 0 0 2px 2px #F04747;
+    border: 1px solid #F04747 !important;
     height: 8px;
     width: 8px;
     margin-right: 4px;
@@ -496,23 +518,61 @@ svg.homeIcon-tEMBK1 {
 }
 .invisible-1kp8Z0, .offline-3qoTek, .unknown-Ms2zdV {
     background-color: transparent;
-    box-shadow: 0 0 1px 3px #747F8D;
+    box-shadow: 0 0 2px 2px #747F8D;
+    border: 1px solid #747F8D !important;
     height: 8px;
     width: 8px;
     margin-right: 4px;
     margin-top: 2px;
 }
 .statusProfile-3ynqtt.online-2S838R {
-    box-shadow: inset 0 0 1px 2px #43B581;
+    box-shadow: 0 0 2px 2px #43B581;
+    border: 1px solid #43B581;
 }
 .statusProfile-3ynqtt.idle-3DEnRT {
-    box-shadow: inset 0 0 1px 2px #FAA61A;
+    box-shadow: 0 0 2px 2px #FAA61A;
 }
 .statusProfile-3ynqtt.dnd-1_xrcq {
-    box-shadow: inset 0 0 1px 2px #F04747;
+    box-shadow: 0 0 2px 2px #F04747;
 }
 .statusProfile-3ynqtt.invisible-1kp8Z0, .offline-3qoTek, .unknown-Ms2zdV {
-    box-shadow: inset 0 0 1px 2px #747F8D;
+    box-shadow: 0 0 2px 2px #747F8D;
+}
+.channel-2QD9_O .status-1ibiUI.online-2S838R {
+    border: 1px solid #43B581;
+}
+.channel-2QD9_O .status-1ibiUI.idle-3DEnRT {
+    border: 1px solid #FAA61A;
+}
+.channel-2QD9_O .status-1ibiUI.dnd-1_xrcq {
+    border: 1px solid #F04747;
+}
+.channel-2QD9_O .status-1ibiUI.invisible-1kp8Z0 {
+    border: 1px solid #747F8D;
+}
+.channel-2QD9_O .status-1ibiUI.offline-3qoTek {
+    border: 1px solid #747F8D;
+}
+.channel-2QD9_O .status-1ibiUI.unknown-Ms2zdV {
+    border: 1px solid #747F8D;
+}
+.channel-2QD9_O.selected-1HYmZZ .status-1ibiUI.online-2S838R {
+    border: 1px solid #43B581;
+}
+.channel-2QD9_O.selected-1HYmZZ .status-1ibiUI.idle-3DEnRT {
+    border: 1px solid #FAA61A;
+}
+.channel-2QD9_O.selected-1HYmZZ .status-1ibiUI.dnd-1_xrcq {
+    border: 1px solid #F04747;
+}
+.channel-2QD9_O.selected-1HYmZZ.status-1ibiUI.invisible-1kp8Z0 {
+    border: 1px solid #747F8D;
+}
+.channel-2QD9_O.selected-1HYmZZ .status-1ibiUI.offline-3qoTek {
+    border: 1px solid #747F8D;
+}
+.channel-2QD9_O.selected-1HYmZZ .status-1ibiUI.unknown-Ms2zdV {
+    border: 1px solid #747F8D;
 }
 .channel-2QD9_O.selected-1HYmZZ .status-1ibiUI {
     border-color: transparent;
@@ -529,8 +589,8 @@ svg.homeIcon-tEMBK1 {
 }
 .statusProfile-3ynqtt {
     background-size: 100%;
-    height: 20px;
-    width: 20px;
+    height: 18px;
+    width: 18px;
     right: 1px;
     bottom: 5px;
 }
@@ -2864,16 +2924,6 @@ a {
 }
 .operations-36ENbA>a {
     color: #00BCD4;
-}
-
-/* Other Better Discord Stuff */
-/* Better Formatting Redux */
-/* https://github.com/rauenzi/BetterDiscordAddons/tree/master/Plugins/BetterFormattingRedux */
-.bf-toolbar {
-    margin: 2px 12px 0 0 !important;
-}
-.bf-toolbar:before {
-    background: rgba(26, 26, 26,.7) !important;
 }
 
 /* Made with Love */
