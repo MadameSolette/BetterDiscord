@@ -1,5 +1,5 @@
 # Air-for-Discord - Dark
-<image src="https://i.imgur.com/OofRuwg.png">
+<image src="https://i.imgur.com/C6B5evV.png">
 
 > Inspired by [Air-for-Steam](https://github.com/airforsteam/Air-for-Steam)
 
