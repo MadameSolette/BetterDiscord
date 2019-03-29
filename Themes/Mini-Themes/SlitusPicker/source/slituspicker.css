@@ -27,6 +27,8 @@
 .popouts-3dRSmE .menu-Sp6bN1.alt-3btY0e .online-2S838R {
     background-color: transparent;
     background-image: linear-gradient(90deg,transparent,rgba(67, 181, 129, 0.3));
+    box-shadow: 0 0 0 0 #43B581 !important;
+    border: 0px solid transparent !important;
 }
 .popouts-3dRSmE .menu-Sp6bN1.alt-3btY0e .online-2S838R:hover {
     background-image: linear-gradient(90deg,transparent,rgba(67, 181, 129, 0.85));
@@ -34,6 +36,8 @@
 .popouts-3dRSmE .menu-Sp6bN1.alt-3btY0e .idle-3DEnRT {
     background-color: transparent;
     background-image: linear-gradient(90deg,transparent,rgba(250, 166, 26, 0.3));
+    box-shadow: 0 0 0 0 #FAA61A !important;
+    border: 0px solid transparent !important;
 }
 .popouts-3dRSmE .menu-Sp6bN1.alt-3btY0e .idle-3DEnRT:hover {
     background-image: linear-gradient(90deg,transparent,rgba(250, 166, 26, 0.85));
@@ -41,6 +45,8 @@
 .popouts-3dRSmE .menu-Sp6bN1.alt-3btY0e .dnd-1_xrcq {
     background-color: transparent;
     background-image: linear-gradient(90deg,transparent,rgba(240, 71, 71, 0.3));
+    box-shadow: 0 0 0 0 #F04747 !important;
+    border: 0px solid transparent !important;
 }
 .popouts-3dRSmE .menu-Sp6bN1.alt-3btY0e .dnd-1_xrcq:hover {
     background-image: linear-gradient(90deg,transparent,rgba(240, 71, 71, 0.85));
@@ -48,6 +54,8 @@
 .popouts-3dRSmE .menu-Sp6bN1.alt-3btY0e .invisible-1kp8Z0 {
     background-color: transparent;
     background-image: linear-gradient(90deg,transparent,rgba(116, 127, 141, 0.3));
+    box-shadow: 0 0 0 0 #747F8D !important;
+    border: 0px solid transparent !important;
 }
 .popouts-3dRSmE .menu-Sp6bN1.alt-3btY0e .invisible-1kp8Z0:hover {
     background-image: linear-gradient(90deg,transparent,rgba(116, 127, 141, 0.85));
