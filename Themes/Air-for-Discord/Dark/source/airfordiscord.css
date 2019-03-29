@@ -121,9 +121,11 @@ svg.homeIcon-tEMBK1 {
     background-color: #00BCD4;
     color: #1a1a1a;
     border-radius: 0px;
+    font-weight: 700;
 }
 .theme-dark .wrapper-1Rf91z {
     background-color: #282828;
+    width: 90px;
 }
 .theme-light .wrapper-2ZbzR9 {
     background: #1a1a1a;
@@ -159,10 +161,31 @@ svg.homeIcon-tEMBK1 {
     background-color: #1a1a1a;
 }
 .theme-dark .guild-1EfMGQ.unread-qLkInr:before {
-    background: var(--bg-color);
+    background-color: transparent;
+    box-shadow: 0 0 2px 3px #00BCD4;
+    border-radius: 50%;
+    height: 8px;
+    width: 8px;
+    left: 0px;
 }
-.theme-dark .unread-2OHH1w:before {
-    background: var(--bg-color);
+.theme-dark  .unread-2OHH1w:before {
+    background-color: transparent;
+    box-shadow: 0 0 2px 3px #00BCD4 !important;
+    border-radius: 50%;
+    height: 8px;
+    width: 8px;
+    left: 0px;
+}
+.theme-dark .selected-nT-gM3:before {
+    background-color: transparent;
+    box-shadow: 0 0 2px 3px rgba(255, 255, 255,.9);
+    transition: height .0s ease-in-out, margin-top .0s ease-in-out;
+    margin-top: -21px;
+    border-radius: 50%;
+    height: 8px;
+    width: 8px;
+    left: 0px;
+    top: 40px;
 }
 .bd-modal-wrapper .header {
     background-color: #1a1a1a;
@@ -197,6 +220,57 @@ svg.homeIcon-tEMBK1 {
 }
 .icon-2aINcz {
     color: #1a1a1a;
+}
+.container-1ETFDs, .homeButton-2Cw51C {
+    margin-top: 5px;
+    right: 1px;
+}
+.friendsOnline-2JkivW {
+    margin-left: 5px;
+    margin-bottom: 0px;
+}
+.theme-dark .guildSeparator-3s64Iy:after {
+    background: transparent;
+}
+.wrapper-2lTRaf {
+    right: -16px;
+}
+.createJoinContainer-2Av064 {
+    right: -15px;
+}
+.container-11WMXy {
+    right: -15px;
+}
+.theme-dark .dragPlaceholder-D9-haY {
+    border-color: #535559;
+    border-style: solid;
+    border-width: 2px;
+}
+.dragfix-1wSxtO:active {
+    border-radius: 50%;
+    overflow: unset;
+}
+.guildsErrorContainer-2uWYsE {
+    margin-bottom: 10px;
+}
+.theme-dark .guildsError-b7zR5H {
+    background: #282828;
+    border-color: #f04747;
+    color: #f04747;
+    margin-left: 15px;
+    font-size: 30px;
+    font-weight: 400;
+}
+.theme-dark .guildsError-b7zR5H:hover {
+    background: #282828;
+    border-color: #f04747;
+    color: #fff;
+    margin-left: 15px;
+    font-size: 30px;
+    font-weight: 400;
+}
+.badge-3dItlm {
+    right: -17px;
 }
 /* Server Settings */
 .theme-dark .popoutList-T9CKZQ {
@@ -1204,6 +1278,9 @@ svg.homeIcon-tEMBK1 {
 }
 
 /* Friends Tab */
+.theme-dark .noChannel-Z1DQK7 {
+    background: #282828;
+}
 .searchBar-6Kv8R2 {
     background-color: #1a1a1a;
 }
