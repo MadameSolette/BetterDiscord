@@ -3113,6 +3113,25 @@ a {
     color: #00BCD4;
 }
 
+/* Changelog */
+#bd-settingspane-container .bda-slist::before {
+    content:"30.03.2019 - Last changes on Air-for-Discord :\A\A- Change Blocked Messages\A- Add Guild scale\A- Fix Status in Friend Tab\A- Fix height in Create/Add Server\A- Add Scale to Buttons\A- Add Last changes box";
+    display: block;
+    line-height:16px;
+    font-size:12px;
+    position: relative;
+    background: #282828;
+    padding: 10px 15px;
+    white-space: pre;
+    margin-bottom: 15px;
+    border-radius: 0px;
+    box-shadow: 0 0 1px 1px #00BCD4;
+    margin-top:-10px;
+    color: #cecece;
+    min-width: 460px;
+    max-width: 740px;
+}
+
 /* Made with Love */
 #bd-settingspane-container .bda-slist li[data-name="Air-for-Discord"] .scroller-wrap::after {
     content: "♥ Made With Love ♥";
