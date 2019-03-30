@@ -860,7 +860,6 @@ svg.homeIcon-tEMBK1 {
 .userPopout-3XzG_A {
     border-radius: 0px;
     width: 250px;
-    margin-right: 20px;
 }
 .theme-dark .headerNormal-T_seeN {
     background-color: #1a1a1a;
@@ -3120,7 +3119,7 @@ a {
     line-height:16px;
     font-size:12px;
     position: relative;
-    background: #282828;
+    background: transparent;
     padding: 10px 15px;
     white-space: pre;
     margin-bottom: 15px;
