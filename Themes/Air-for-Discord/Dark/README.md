@@ -1,30 +1,20 @@
 # Air-for-Discord - Dark
-<image src="https://i.imgur.com/C6B5evV.png">
+<image src="https://i.imgur.com/AVzYLQE.png">
 
 > Inspired by [Air-for-Steam](https://github.com/airforsteam/Air-for-Steam)
 
 ## Mouseover Effects for:
-
 - Channels
 - Memberlist
 - Settingpage
 - Friendlist
 - StatusPicker
 
+## Development status:
+ - Active
+
 ## Install:
 - Grab the [Air-for-Discord.theme.css](https://github.com/MadameSolette/BetterDiscord/blob/master/Themes/Air-for-Discord/Dark/Air-for-Discord.theme.css) file and put it in your theme folder.
 
 ## Compatible with:
 - [zHorizontalServerlist](https://github.com/Gibbu/BetterDiscord-Themes/tree/master/HorizontalServerlist) by Gibbu
-
-## Requirements:
-Make sure you have installed the BetterDiscordApp:
-- [**Windows** and **Mac** users version](https://github.com/rauenzi/BetterDiscordApp/releases)
-- [**Linux** users go here](https://gist.github.com/ObserverOfTime/d7e60eb9aa7fe837545c8cb77cf31172)
-
-## BetterDiscord Support Server:
- - [BetterDiscord](https://discord.gg/0Tmfo5ZbORCRqbAd)
- - [BetterDiscord2](https://discord.gg/2HScm8j)
-
-## Development status:
- - Active
