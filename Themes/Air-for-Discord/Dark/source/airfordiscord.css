@@ -148,6 +148,12 @@ svg.homeIcon-tEMBK1 {
     background: #282828 !important;
     border-radius: 50% !important;
 }
+.theme-dark .wrapper-2lTRaf a {
+    transition: all 250ms ease;
+}
+.theme-dark .wrapper-2lTRaf:hover a {
+    transform: scale(1.30);
+}
 .guilds-1q_RqH {
     background-color: #282828;
 }
@@ -495,12 +501,22 @@ svg.homeIcon-tEMBK1 {
 .theme-dark .container-2Thooq, .theme-light .container-2Thooq {
     background: #1a1a1a;
     height: 71px;
-    padding: 0px;
-    padding-left: 23px;
+    padding-right: 20px;
+    padding-left: 43px;
 }
 .popoutTopLeft-b5Eb3O {
-    margin-top: -25px;
-    margin-left: -18px;
+    margin-top: -15px;
+    margin-left: -38px;
+}
+.container-2Thooq .avatar-3JE4B3 {
+    height: 50px;
+    width: 50px;
+}
+.accountDetails-3k9g4n .username {
+    display: none;
+}
+.accountDetails-3k9g4n .discriminator {
+    display: none;
 }
 .theme-dark .alt-3btY0e .helper-2c73HK {
     display: none;
@@ -692,9 +708,9 @@ svg.homeIcon-tEMBK1 {
     bottom: 4px;
 }
 .avatarSmall-3ACRaI .status-2zcSVk {
-    bottom: 10px;
+    bottom: 20px;
     height: 8px;
-    right: 32px;
+    right: 55px;
     width: 8px;
 }
 
@@ -785,7 +801,7 @@ svg.homeIcon-tEMBK1 {
     background-color: transparent;
     background-image: -webkit-gradient(linear,left top,right top,from(#222222),to(#1a1a1a));
     background-image: linear-gradient(90deg,#222222,#1a1a1a);
-    transform: translateX(5px);
+    transform: translateX(7px);
     transition: all 250ms ease;
 }
 .theme-dark .member-3W1lQa.popout-open .content-OzHfo4, .theme-dark .member-3W1lQa.popout-open:hover .content-OzHfo4 {
@@ -1357,7 +1373,7 @@ svg.homeIcon-tEMBK1 {
 .channel-2QD9_O:hover {
     background-image: -webkit-gradient(linear,left top,right top,from(#222222),to(#1a1a1a));
     background-image: linear-gradient(90deg,#222222,#1a1a1a);
-    transform: translateX(5px);
+    transform: translateX(7px);
     transition: all 200ms ease;
 }
 .channel-2QD9_O.selected-1HYmZZ a {
@@ -1896,7 +1912,7 @@ html, span:not(.spinner-item) {
     background-color: transparent !important;
     background-image: -webkit-gradient(linear,left top,right top,from(#1a1a1a),to(#282828)) !important;
     background-image: linear-gradient(90deg,#1a1a1a,#282828) !important;
-    transform: translateX(5px);
+    transform: translateX(7px);
     transition: all 250ms ease;
     margin-right: 0px !important;
 }
@@ -1904,7 +1920,7 @@ html, span:not(.spinner-item) {
     background-color: transparent !important;
     background-image: -webkit-gradient(linear,left top,right top,from(#1a1a1a),to(#282828)) !important;
     background-image: linear-gradient(90deg,#1a1a1a,#282828) !important;
-    transform: translateX(5px);
+    transform: translateX(7px);
     transition: all 250ms ease;
     margin-right: 5px;
 }
@@ -1930,7 +1946,7 @@ html, span:not(.spinner-item) {
     background-color: #1a1a1a !important;
     background-image: -webkit-gradient(linear,left top,right top,from(#1a1a1a),to(#282828)) !important;
     background-image: linear-gradient(90deg,#1a1a1a,#282828) !important;
-    transform: translateX(5px);
+    transform: translateX(7px);
     margin-right: 5px;
 }
 .theme-dark #bd-settings-sidebar .ui-tab-bar-item.selected {
