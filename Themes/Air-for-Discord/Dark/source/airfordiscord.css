@@ -582,9 +582,16 @@ svg.homeIcon-tEMBK1 {
 .popouts-3dRSmE .menu-Sp6bN1.alt-3btY0e .invisible-1kp8Z0:hover {
     background-image: linear-gradient(90deg,transparent,rgba(116, 127, 141, 0.85));
 }
+.theme-dark .button-2b6hmh:hover, .theme-light .button-2b6hmh {
+    background-color: transparent;
+    transition: all 250ms ease;
+}
+.theme-dark .button-2b6hmh:hover, .theme-light .button-2b6hmh:hover {
+    background-color: transparent;
+    transform: scale(1.35);
+}
 
 /* Status */
-
 .online-2S838R {
     background-color: #222222;
     box-shadow: 0 0 2px 2px #43B581;
