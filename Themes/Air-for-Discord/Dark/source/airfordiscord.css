@@ -19,7 +19,7 @@
 
 /* Top Bar */
 .typeWindows-1za-n7 {
-    background: var(--bg-color);
+    background: #00BCD4;
     margin-top: 0px;
     height: 22px;
 }
@@ -241,6 +241,10 @@ svg.homeIcon-tEMBK1 {
 .theme-dark .guildSeparator-3s64Iy:after {
     background: transparent;
 }
+.guildSeparator-3s64Iy {
+    height: 0px;
+    margin-bottom: 8px;
+}
 .wrapper-2lTRaf {
     right: -16px;
 }
@@ -280,6 +284,10 @@ svg.homeIcon-tEMBK1 {
 }
 .badge-3dItlm {
     right: -17px;
+}
+.lurkingGuild-3ZJ1gi {
+    margin-bottom: 25px;
+    margin-top: 25px;
 }
 /* Server Settings */
 .theme-dark .popoutList-T9CKZQ {
@@ -3220,7 +3228,7 @@ a {
 
 /* Changelog */
 #bd-settingspane-container .bda-slist::before {
-    content:"31.03.2019 - Last changes on Air-for-Discord Theme :\A\A- Change Activity Tab\A- Change in Settings -> Game Activity: Add Game\A- Change Bot Tag font-weight\A- Disable read Blocked Messages !!!";
+    content:"31.03.2019 - Last changes on Air-for-Discord Theme :\A\A- Change Activity Tab\A- Change in Settings -> Game Activity: Add Game\A- Change Bot Tag font-weight\A- Change Server Tab Stuff\A- Disable read Blocked Messages !!!";
     display: block;
     line-height:16px;
     font-size:12px;
