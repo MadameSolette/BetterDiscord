@@ -951,6 +951,11 @@ svg.homeIcon-tEMBK1 {
 .buttonContainer-KtQ8wc {
     margin-top: 3px;
 }
+
+/* Blocked Messages */
+.theme-dark .messageGroupBlocked-3wrQQX {
+    display: none;
+}
 .theme-dark .messageGroupBlocked-3wrQQX {
     background: #222222;
     border-color: transparent;
@@ -3156,6 +3161,7 @@ a {
     background: #00BCD4;
     color: #1a1a1a;
     border-radius: 0px;
+    font-weight: 600;
 }
 .theme-dark .isLocalBot-38G0P0.containerCozy-jafyvG {
     margin-bottom: 25px;
@@ -3214,7 +3220,7 @@ a {
 
 /* Changelog */
 #bd-settingspane-container .bda-slist::before {
-    content:"31.03.2019 - Last changes on Air-for-Discord Theme :\A\A- Change Activity Tab\A- Change Settings -> Game Activity: Add Game";
+    content:"31.03.2019 - Last changes on Air-for-Discord Theme :\A\A- Change Activity Tab\A- Change in Settings -> Game Activity: Add Game\A- Change Bot Tag font-weight\A- Disable read Blocked Messages !!!";
     display: block;
     line-height:16px;
     font-size:12px;
