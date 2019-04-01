@@ -1787,6 +1787,13 @@ svg.homeIcon-tEMBK1 {
     background-color: #222222;
     border-radius: 0px;
 }
+.theme-dark .wrapper-3UweLa {
+    background: #222222;
+}
+.theme-dark .image-2prtMm {
+    height: 0px;
+    margin-bottom: 0px;
+}
 
 /* Bibliothek */
 .emptyStateLarge-1nQX5A {
@@ -3228,7 +3235,7 @@ a {
 
 /* Changelog */
 #bd-settingspane-container .bda-slist::before {
-    content:"31.03.2019 - Last changes on Air-for-Discord Theme :\A\A- Change Activity Tab\A- Change in Settings -> Game Activity: Add Game\A- Change Bot Tag font-weight\A- Change Server Tab Stuff\A- Disable read Blocked Messages !!!";
+    content:"01.04.2019 - Last changes on Air-for-Discord Theme :\A\A- Change Activity Tab > Now Playing > Nobody is playing Box";
     display: block;
     line-height:16px;
     font-size:12px;
