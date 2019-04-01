@@ -1974,6 +1974,18 @@ svg.homeIcon-tEMBK1 {
 .tile-2H4MQG:hover {
     transform: scale(1.04);
 }
+.perkTag-2O4dx4 {
+    background: linear-gradient(90deg,#00B2C9,#FF8C00);
+    color: #1a1a1a !important;
+    font-weight: 700;
+}
+.theme-dark .price-NUANu6, .theme-light .price-NUANu6 {
+    background-color: #282828;
+    border-radius: 0px;
+}
+.premiumCircle-3jgziV {
+    background: linear-gradient(90deg,#00B2C9,#FF8C00);
+}
 
 /* Flickering Fix */
 html, span:not(.spinner-item) {
@@ -3272,7 +3284,7 @@ a {
 
 /* Changelog */
 #bd-settingspane-container .bda-slist::before {
-    content:"01.04.2019 - Last changes on Air-for-Discord Theme :\A\A- Change Activity Tab > Now Playing > Nobody is playing Box\A- Change BOT-Tag\A- Change Nitro Stuff";
+    content:"01.04.2019 - Last changes on Air-for-Discord Theme :\A\A- Change Activity Tab > Now Playing > Nobody is playing Box\A- Change BOT-Tag\A- Change Nitro Stuff\A- Change more Nitro Stuff";
     display: block;
     line-height:16px;
     font-size:12px;
