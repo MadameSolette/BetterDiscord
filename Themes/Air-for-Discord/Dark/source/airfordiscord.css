@@ -1947,6 +1947,33 @@ svg.homeIcon-tEMBK1 {
 .theme-dark .emptyWumpus-3Gagum {
     display: none;
 }
+.theme-dark .itemBackground-2vEldQ {
+    background-color: transparent;
+    background-image: none !important;
+}
+.theme-dark .itemBackground-2vEldQ:before {
+    background: radial-gradient(ellipse at top,#00BCD4,#FF8C00),linear-gradient(90deg,#FF8C00 0,#00BCD4 40%,#00BCD4 60%,#FF8C00),linear-gradient(0deg,#FF8C00 10%,#00BCD4 70%);
+}
+.paginationContainer-2T3a2b {
+    background-color: rgba(40,40,40,.5);
+    border-top: 1px solid #1a1a1a;
+    border-bottom: 1px solid #1a1a1a;
+    bottom: -1px;
+    left: 20px;
+    width: 100%;
+}
+.homeTile-3qVuGa {
+    transition: all 200ms ease;
+}
+.homeTile-3qVuGa:hover {
+    transform: scale(1.04);
+}
+.tile-2H4MQG {
+    transition: all 200ms ease;
+}
+.tile-2H4MQG:hover {
+    transform: scale(1.04);
+}
 
 /* Flickering Fix */
 html, span:not(.spinner-item) {
@@ -3182,6 +3209,16 @@ a {
     margin-bottom: 25px;
     padding: 20px;
 }
+/* Bot */
+.botTagInvert-18-95s {
+    background: #00B2C9;
+    color: #222222;
+}
+.botTag-2WPJ74 {
+    border-radius: 0px;
+    font-weight: 700;
+    padding: 2px 2px;
+}
 
 /* Fonts */
 .theme-dark .markup-2BOw-j a {
@@ -3235,7 +3272,7 @@ a {
 
 /* Changelog */
 #bd-settingspane-container .bda-slist::before {
-    content:"01.04.2019 - Last changes on Air-for-Discord Theme :\A\A- Change Activity Tab > Now Playing > Nobody is playing Box";
+    content:"01.04.2019 - Last changes on Air-for-Discord Theme :\A\A- Change Activity Tab > Now Playing > Nobody is playing Box\A- Change BOT-Tag\A- Change Nitro Stuff";
     display: block;
     line-height:16px;
     font-size:12px;
