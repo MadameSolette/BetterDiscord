@@ -1776,6 +1776,9 @@ svg.homeIcon-tEMBK1 {
     background-color: #282828;
     border-radius: 0px;
 }
+.headerIcon-1xLMqh, .multipleIconWrapper-2TXVB4 {
+    border-radius: 0px;
+}
 .theme-dark .inset-GQDQYw {
     background-color: #222222;
 }
@@ -1793,6 +1796,19 @@ svg.homeIcon-tEMBK1 {
 .theme-dark .image-2prtMm {
     height: 0px;
     margin-bottom: 0px;
+}
+.container-35JN_A {
+    border-radius: 0px;
+    background-color: #1a1a1a;
+}
+.theme-dark .wrapped-15rg6t.clickable-nnkAZy:hover {
+    background-color: #282828;
+}
+.icon-2hm0JA {
+    border-radius: 0px;
+}
+.applicationIcon-3-RUVw {
+    border-radius: 0px;
 }
 
 /* Bibliothek */
@@ -3284,7 +3300,7 @@ a {
 
 /* Changelog */
 #bd-settingspane-container .bda-slist::before {
-    content:"01.04.2019 - Last changes on Air-for-Discord Theme :\A\A- Change Activity Tab > Now Playing > Nobody is playing Box\A- Change BOT-Tag\A- Change Nitro Stuff\A- Change more Nitro Stuff";
+    content:"04.04.2019 - Last changes on Air-for-Discord Theme :\A\A- Change some Activity Tab Stuff";
     display: block;
     line-height:16px;
     font-size:12px;
