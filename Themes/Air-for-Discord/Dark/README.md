@@ -13,7 +13,7 @@
 ## Blocked Messages are not available to read !!!
 
 ## StatusPicker
-If you want my StatusPicker follow this Link to the blank customizable version:
+If you want my StatusPicker follow this Link for a blank customizable version:
 - [SlitusPicker](https://github.com/MadameSolette/BetterDiscord/tree/master/Themes/Mini-Themes/SlitusPicker)
 
 ## Install:
