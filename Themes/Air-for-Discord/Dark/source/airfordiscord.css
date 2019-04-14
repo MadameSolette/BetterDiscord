@@ -2009,6 +2009,33 @@ html, span:not(.spinner-item) {
 }
 
 /* Settings Page */
+.phoneVerificationModal-OzcDc3 .animationContainer-WJHr_z {
+    display: none;
+}
+.phoneVerificationModal-OzcDc3 .title-3qNdae {
+    margin-top: 0px;
+}
+.phoneField-38N1bJ {
+    border-radius: 0px;
+}
+.phoneField-38N1bJ .countryButton-3xq3Ts {
+    border-radius: 0px;
+}
+.theme-dark .phoneField-38N1bJ {
+    background-color: #282828;
+}
+.theme-dark .phoneField-38N1bJ .countryButton-3xq3Ts {
+    background-color: #1a1a1a;
+}
+.theme-dark .phoneField-38N1bJ .inputField-aNPXsv {
+    background-color: #282828;
+}
+.input-3yHnCz {
+    border-radius: 0px;
+}
+.theme-dark .input-3yHnCz {
+    background-color: #282828;
+}
 .theme-dark .questionMark-CWEQZn {
     background-color: #00BCD4;
     border-radius: 0px;
@@ -3300,7 +3327,7 @@ a {
 
 /* Changelog */
 #bd-settingspane-container .bda-slist::before {
-    content:"04.04.2019 - Last changes on Air-for-Discord Theme :\A\A- Change some Activity Tab Stuff";
+    content:"14.04.2019 - Last changes on Air-for-Discord Theme :\A\A- Change Phone Activation Stuff";
     display: block;
     line-height:16px;
     font-size:12px;
