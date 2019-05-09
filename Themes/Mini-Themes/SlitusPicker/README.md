@@ -2,4 +2,4 @@
 
 Slide your Discord status 😉
 
-<image src="https://i.imgur.com/ljCegdF.png">
+<image src="https://raw.githubusercontent.com/MadameSolette/BetterDiscord/master/Themes/Mini-Themes/SlitusPicker/images/SlitusPicker.png">
