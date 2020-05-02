@@ -22,4 +22,4 @@ If you want my StatusPicker follow this Link for a blank customizable version:
 - Grab the [Air-for-Discord.theme.css](https://github.com/MadameSolette/BetterDiscord/blob/master/Themes/Air-for-Discord/Dark/Air-for-Discord.theme.css) file and put it in your theme folder.
 
 ## Development status:
- - Active
+ - Not active at the moment
