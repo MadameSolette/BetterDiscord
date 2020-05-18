@@ -1,3 +1,5 @@
+# THIS THEME IS OUT OF DATE !!! (01.05.2019)
+
 # RemoveDiscoveryButton
 
 Remove the Discovery Button
