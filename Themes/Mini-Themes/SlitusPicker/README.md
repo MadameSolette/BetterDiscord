@@ -1,3 +1,5 @@
+# THIS THEME IS OUT OF DATE !!! (01.05.2019)
+
 # SlitusPicker
 
 Slide your Discord status 😉
