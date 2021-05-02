@@ -5,3 +5,6 @@
 Remove the Discovery Button
 
 <image src="https://raw.githubusercontent.com/MadameSolette/BetterDiscord/master/Themes/Mini-Themes/RemoveDiscoveryButton/images/RemoveDiscoveryButton.png">
+
+## Development status:
+ - Not active at the moment
